@@ -102,6 +102,17 @@ Loan-Approval-Prediction/
     ├── correlation_heatmap.png
     └── model_accuracy.png
 ```
+## Loan Approval Distribution
+
+![Loan Approval Distribution](images/loan_status.png)
+
+## Correlation Heatmap
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+## Model Accuracy Comparison
+
+![Model Accuracy](images/model_accuracy.png) 
 
 ---
 
